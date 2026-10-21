@@ -51,5 +51,4 @@ Suggested demo walkthrough
 3. Use one of the prompts above with fictional context to draft a follow-up.
 4. Show the summary sheet and explain how a weekly review could prioritize accounts.
 5. Explain which reminders are currently manual and which could be automated in a future version.
-Limitations
-This is a small demonstration using fictional data. It does not connect to a CRM, send emails, or run background automations. The workbook is a starting point for learning and discussion, not a substitute for a customer-success platform.
+
